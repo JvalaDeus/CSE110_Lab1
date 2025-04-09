@@ -1,5 +1,7 @@
 # About Me
 ## At UCSD
+![Geisel Library](images/Geisel.jpg)
+
 I transfered to **UC San Diego** from **SJSU**, and will be graduating Spring '25 with a B.S. in Cognitive Science w/ a specialization in Machine Learning & Neural Computation. I am also double minoring in Computer Science & General Biology. At UCSD I have been a part of multiple organizations including the Men's Ultimate Frisbee Team (known as the "Air Squids"), Triton Neurotech, Triangle Fraternity, and Sun God Archery, Circle K International. One of my biggest accomplishments as been winning second place in the *international NeurotechX* competition with <ins>Triton Neurotech</ins>. 
 
 ## Running
@@ -21,19 +23,23 @@ This is relevant because **I find it quite _funny_ and _love_ self deprecating j
 I also really like music in general, so I thought I would include pictures of my top five favorite albums (all titles below are hyper links to the wikipedia page for the album):
 
 [The Works by Queen](https://en.wikipedia.org/wiki/The_Works_(Queen_album))
-![The Works by Queen](images/The%20Works.png =100x20)
+[The Works by Queen](images/The%20Works.png)
+<img src="images/The%20Works.png" alt="The Works" width="100" height="100"/>
+
 
 [Cornell '77 by The Grateful Dead](https://en.wikipedia.org/wiki/Cornell_5/8/77)
-![Cornell '77 by Grateful Dead](images/Cornell77.jpg =200x200)
+[Cornell '77 by Grateful Dead](images/Cornell77.jpg)
+<img src="images/Cornell77.jpg" alt="Cornell 77" width="150" height="150"/>
+
 
 [Ten by Pearl Jam](https://simple.wikipedia.org/wiki/Ten_(Pearl_Jam_album))
-![Ten by Pearl Jam](images/Ten.jpg =100x100)
+[Ten by Pearl Jam](images/Ten.jpg)
 
 [S&M2 by Metallica](https://en.wikipedia.org/wiki/S%26M_(album))
-![S&M2 by Metallica](images/S&M2.png)
+[S&M2 by Metallica](images/S&M2.png)
 
 [Superunkown by Soundgarden](https://en.wikipedia.org/wiki/Superunknown)
-![Superunkown by Soundgarden](images/Superunknown.jpg)
+[Superunkown by Soundgarden](images/Superunknown.jpg)
 
 While it may seem that I mostly listen to metal, rock, and grunge from this list, I also enjoy listening to electronic, pop, and other genres. Also the above images are not listed in order of number one to number five. If I were to do that, it would look something like this:
 
@@ -56,11 +62,11 @@ This is probably the most important section for this assignment ~~because I am g
 The very first thing I ever did was, of course, the standard hello world
 
 ```
-public class Main(){
+public class Main {
     public static void main(String[] args){
         System.out.println("Hello World!");
     }
 }
 ```
 
-This may be wierd, but java will always have a special place in my heart. Just like my favorite albums! Which if you forgot, [are here](#music)
+This may be weird, but java will always have a special place in my heart. Just like my favorite albums! Which if you forgot, [are here](#music)
