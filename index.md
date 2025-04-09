@@ -11,20 +11,20 @@ I really like running and am currently training to run my second half marathon t
 This is relevant because **I find it quite _funny_ and _love_ self deprecating jokes**. That is the only reason.
 
 I also really like music in general, so I thought I would include pictures of my top five favorite albums:
-### The Works by Queen
+### [The Works by Queen](https://en.wikipedia.org/wiki/The_Works_(Queen_album))
 ![The Works by Queen](images/The%20Works.png)
 
-### Cornell '77 by The Grateful Dead
+### [Cornell '77 by The Grateful Dead](https://en.wikipedia.org/wiki/Cornell_5/8/77)
 ![Cornell '77 by Grateful Dead](images/Cornell77.jpg)
 
-### Ten by Pearl Jam
+### [Ten by Pearl Jam](https://simple.wikipedia.org/wiki/Ten_(Pearl_Jam_album))
 ![Ten by Pearl Jam](images/Ten.png)
 
-### S&M2 by Metallica
+### [S&M2 by Metallica](https://en.wikipedia.org/wiki/S%26M_(album))
 ![S&M2 by Metallica](images/S&M2.png)
 
-### Superunkown by Soundgarden
-![Superunkown by Soundgarden](images/superunkown.png)
+### [Superunkown by Soundgarden](https://en.wikipedia.org/wiki/Superunknown)
+![Superunkown by Soundgarden](images/Superunknown.jpg)
 
 While it may seem that I mostly listen to metal, rock, and grunge from this list, I also enjoy listening to electronic, pop, and other genres. Also the above images are not listed in order of number one to number five. If I were to do that, it would look something like this:
 
