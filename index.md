@@ -39,13 +39,13 @@ I also really like music in general, so I thought I would include pictures of my
 
 [Superunkown by Soundgarden](https://en.wikipedia.org/wiki/Superunknown)
 
-<img src="images/Superunkown.jpg" alt="Superunknown" width="150" height="150"/>
+<img src="images/Superunknown.jpg" alt="Superunknown" width="150" height="150"/>
 
 While it may seem that I mostly listen to metal, rock, and grunge from this list, I also enjoy listening to electronic, pop, and other genres. Also the above images are not listed in order of number one to number five. If I were to do that, it would look something like this:
 
 1. The Works by Queen
 2. Ten by Pearl Jam
-3. Superunkown by Soundgarden
+3. Superunknown by Soundgarden
 4. S&M2 by Metallica
 5. Cornell '77 by the Grateful Dead
 
