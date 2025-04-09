@@ -1,6 +1,5 @@
 # About Me
 ## At UCSD
-[Geisel Library](images/Geisel.jpg)
 
 I transfered to **UC San Diego** from **SJSU**, and will be graduating Spring '25 with a B.S. in Cognitive Science w/ a specialization in Machine Learning & Neural Computation. I am also double minoring in Computer Science & General Biology. At UCSD I have been a part of multiple organizations including the Men's Ultimate Frisbee Team (known as the "Air Squids"), Triton Neurotech, Triangle Fraternity, and Sun God Archery, Circle K International. One of my biggest accomplishments as been winning second place in the *international NeurotechX* competition with <ins>Triton Neurotech</ins>. 
 
@@ -24,29 +23,22 @@ I also really like music in general, so I thought I would include pictures of my
 
 [The Works by Queen](https://en.wikipedia.org/wiki/The_Works_(Queen_album))
 
-![The Works by Queen](images/The%20Works.png)
 <img src="images/The%20Works.png" alt="The Works" width="150" height="150"/>
-
 
 [Cornell '77 by The Grateful Dead](https://en.wikipedia.org/wiki/Cornell_5/8/77)
 
-![Cornell '77 by Grateful Dead](images/Cornell77.jpg)
 <img src="images/Cornell77.jpg" alt="Cornell 77" width="150" height="150"/>
-
 
 [Ten by Pearl Jam](https://simple.wikipedia.org/wiki/Ten_(Pearl_Jam_album))
 
-![Ten by Pearl Jam](images/Ten.jpg)
 <img src="images/Ten.jpg" alt="Ten" width="150" height="150"/>
 
 [S&M2 by Metallica](https://en.wikipedia.org/wiki/S%26M_(album))
 
-![S&M2 by Metallica](images/S&M2.png)
 <img src="images/S&M2.png" alt="S&M2" width="150" height="150"/>
 
 [Superunkown by Soundgarden](https://en.wikipedia.org/wiki/Superunknown)
 
-![Superunkown by Soundgarden](images/Superunknown.jpg)
 <img src="images/Superunkown.jpg" alt="Superunknown" width="150" height="150"/>
 
 While it may seem that I mostly listen to metal, rock, and grunge from this list, I also enjoy listening to electronic, pop, and other genres. Also the above images are not listed in order of number one to number five. If I were to do that, it would look something like this:
