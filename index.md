@@ -56,6 +56,8 @@ However number five is hard because the grateful dead have so many great albums,
 * Blues for Allah
 * Workingman's Dead
 
+If you are interested, you can see all [The *studio* Grateful Dead albums here](images/DeadAlbums.jpg)
+
 ## Coding Background
 This is probably the most important section for this assignment ~~because I am going to finish quoting code, and the rest of the core markdown constructs~~ because it explains my experience for this class. Before transfering to UCSD I was a CS major at SJSU. However I was very interested in neuroscience as well, which is why I picked Cogs ML here over CS at UCSC or data science at UCLA. In middle school I started learning how to program in java from my dad, and then in highschool I started learning C++ and python. I also learned the basics of CSS & HTML to make a website for a few student orgs I was part of in highschool, but I have not really worked with it since then. I have taken CSE 30 at UCSD so I understand the basics of C and assembly, but I am not very proficient in that. I have done a few projects, but all are related to ML or AI. I am interested in looking more at other things like computer architecture as well. 
 
