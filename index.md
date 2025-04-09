@@ -27,7 +27,7 @@ I also really like music in general, so I thought I would include pictures of my
 ![Cornell '77 by Grateful Dead](images/Cornell77.jpg)
 
 [Ten by Pearl Jam](https://simple.wikipedia.org/wiki/Ten_(Pearl_Jam_album))
-![Ten by Pearl Jam](images/Ten.png)
+![Ten by Pearl Jam](images/Ten.jpg)
 
 [S&M2 by Metallica](https://en.wikipedia.org/wiki/S%26M_(album))
 ![S&M2 by Metallica](images/S&M2.png)
@@ -63,4 +63,4 @@ public class Main(){
 }
 ```
 
-This may be wierd, but java will always have a special place in my heart. Just like my favorite albums! Which if you forgot, [are here](#favorite music)
+This may be wierd, but java will always have a special place in my heart. Just like my favorite albums! Which if you forgot, [are here](#music)
