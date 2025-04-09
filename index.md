@@ -21,13 +21,13 @@ This is relevant because **I find it quite _funny_ and _love_ self deprecating j
 I also really like music in general, so I thought I would include pictures of my top five favorite albums (all titles below are hyper links to the wikipedia page for the album):
 
 [The Works by Queen](https://en.wikipedia.org/wiki/The_Works_(Queen_album))
-![The Works by Queen](images/The%20Works.png = 100x20)
+![The Works by Queen](images/The%20Works.png =100x20)
 
 [Cornell '77 by The Grateful Dead](https://en.wikipedia.org/wiki/Cornell_5/8/77)
-![Cornell '77 by Grateful Dead](images/Cornell77.jpg = 200 x 200)
+![Cornell '77 by Grateful Dead](images/Cornell77.jpg =200x200)
 
 [Ten by Pearl Jam](https://simple.wikipedia.org/wiki/Ten_(Pearl_Jam_album))
-![Ten by Pearl Jam](images/Ten.jpg = 100x100)
+![Ten by Pearl Jam](images/Ten.jpg =100x100)
 
 [S&M2 by Metallica](https://en.wikipedia.org/wiki/S%26M_(album))
 ![S&M2 by Metallica](images/S&M2.png)
